@@ -34,6 +34,7 @@ Feel free to add **issue** with short description of new publication or create a
 
 | Paper | Task        | Comment     |
 |:-----:|:-----------:|:-----------:|
+| [J. Pawłowski et al., 2021](https://arxiv.org/pdf/2111.03789.pdf) | Synthetic Data Generation | Authors introduced an effective strategy to generate an annotated synthetic dataset of microbiological images of Petri dishes that can be used to train deep learning models in a fully supervised fashion. [code for studies](https://github.com/jarek-pawlowski/microbial-dataset-generation) |
 | [S. Majchrowska et al., 2021](https://arxiv.org/abs/2108.10103)| Detection | Comparison of the performance of three well-known deep learning approaches for object detection on the AGAR dataset (high resolution subset), namely two-stage, one-stage and transformer based neural networks. |
 | [S. Majchrowska et al., 2021](https://arxiv.org/abs/2108.01234)| Detection | This paper introduces the Annotated Germs for Automated Recognition (AGAR) dataset, an 18k image database of five different species of microbial colonies cultured on agar plates. |
 | [T. Naets et al., 2021](https://arxiv.org/abs/2103.05337)| Instance segmentation | This paper presents an application of the Mask R-CNN to the counting of different types of bacterial colony forming units that were cultured in Petri dishes. |
